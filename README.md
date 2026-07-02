@@ -26,4 +26,4 @@ def calculator():
     else:
         print("Invalid choice.")
 
-calculator()
+calculator(
