@@ -23,7 +23,7 @@ def calculator():
             print("Result:", num1 / num2)
         else:
             print("Cannot divide by zero.")
-    else:
+    ele:
         print("Invalid choice.")
 
 calculator(
