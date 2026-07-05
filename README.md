@@ -27,3 +27,4 @@ def calculator():
         print("Invalid choice.")
 
 calculator(
+List the advantages and disadvantages.
