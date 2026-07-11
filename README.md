@@ -29,5 +29,4 @@ def calculator():
 calculator(
 List the advantages and disadvantages.
 Imagine living on Mars.
-im a teacher 
 
