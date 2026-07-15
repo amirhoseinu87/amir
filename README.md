@@ -3,7 +3,7 @@
 
    
    
-    print("2. Subtract")
+    ct")
     print("3. Multiply")
     prin("4. Divide")
 
