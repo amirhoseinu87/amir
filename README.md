@@ -26,7 +26,7 @@
     ele:
         print("Invalid choice.")
 
-calculator(
+
 List the advantages and disadvantages.
 Imagine living on Mars.
 
