@@ -4,7 +4,7 @@
    
    
     ct")
-    print("3. Multiply")
+   
     prin("4. Divide")
 
     choice = input("Choose (1-4): ")
