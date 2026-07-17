@@ -9,7 +9,7 @@
 
     choice = input("Choose (1-4): ")
 
-    num1 = float(input("First number: "))
+    
     num2 = float(input("Second number: "))
 
     if choice == "1":
