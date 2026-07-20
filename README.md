@@ -7,7 +7,7 @@
    
     prin("4. Divide")
 
-    choice = input("Choose (1-4): ")
+  = input("Choose (1-4): ")
 
     
     num2 = float(input("Second number: "))
