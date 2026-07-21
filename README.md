@@ -5,7 +5,7 @@
    
    
    
-    prin("4. Divide")
+  ("4. Divide")
 
   = input("Choose (1-4): ")
 
