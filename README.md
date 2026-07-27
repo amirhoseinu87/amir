@@ -7,7 +7,7 @@
    
 
 
- ("Choose (1-4): ")
+
 
     
   = float(input("Second number: "))
