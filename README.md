@@ -10,7 +10,7 @@
 
 
     
-  = (" number: "))
+  number: "))
 
     if choice == "1":
         print("Result:", num1 + num2)
