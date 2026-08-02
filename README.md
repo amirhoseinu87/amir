@@ -12,7 +12,7 @@
     
 )
 
-    if choice == "1":
+   hoice == "1":
         print("Result:", num1 + num2)
     elif choice == "2":
         print("Result:", num1 - num2)
