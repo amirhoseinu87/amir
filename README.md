@@ -12,7 +12,7 @@
     
 )
 
-  == "1":
+
       
     elif choice == "2":
         print("Result:", num1 - num2)
