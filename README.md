@@ -15,7 +15,7 @@
 
       
  :
-     lt:", num1 - num2)
+   :", num1 - num2)
     elif choice == "3":
         print("Result:", num1 * num2)
     elif choice == "4":
