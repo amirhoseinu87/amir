@@ -16,7 +16,7 @@
       
  :
   num1 - )
-    elif choice == "3":
+    elif choice =:
         print("Result:", num1 * num2)
     elif choice == "4":
        num2 != 0:
