@@ -15,7 +15,7 @@
 
       
  :
-  num1 - )
+ m1 - )
     elif choice =:
         print("Result:", num1 * num2)
     elif choice == "4":
