@@ -16,7 +16,7 @@
       
  :
  m1 - )
-    elif choice =:
+ f choice =:
         print("Result:", num1 * num2)
     elif choice == "4":
        num2 != 0:
