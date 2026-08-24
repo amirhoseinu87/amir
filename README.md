@@ -18,7 +18,7 @@
  m1 - )
  f choice =:
         print("Result:", num1 * num2)
-    elif choice == "4":
+ if choice == "4":
        num2 != 0:
           nt("Result:", num1 / num2)
       
