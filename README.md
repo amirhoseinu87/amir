@@ -19,7 +19,7 @@
         print("Result:", num1 * num2)
  if choice == "4":
        num2 != 0:
-          nt("Result:", num1 / num2)
+          ("Result:", num1 / num2)
       
             print("Cannot divide by zero.")
     ele:
