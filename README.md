@@ -17,7 +17,7 @@
  :
 f choice =:
         print("Result:", num1 * num2)
- if choice == "4":
+f choice == "4":
        num2 != 0:
        um1 / num2)
       
