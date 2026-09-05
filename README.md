@@ -17,7 +17,7 @@
  :
 f choice =:
         print("Result:", num1 * num2)
-f choice == "4":
+choice == "4":
        num2 != 0:
     / num2)
       
