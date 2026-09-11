@@ -18,7 +18,7 @@
 f choice =:
         print("Result:", num1 * num2)
 choice == "4":
-    um2 != 0:
+  m2 != 0:
 )
       
             print("Cannot divide by zero.")
