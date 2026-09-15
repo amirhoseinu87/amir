@@ -17,7 +17,7 @@
  :
 f choice =:
         print("Result:", num1 * num2)
-hoice == "4":
+ice == "4":
   != 0:
 )
       
