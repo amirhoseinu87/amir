@@ -16,7 +16,7 @@
       
  :
 f choice =:
-        print("Result:", num1 * num2)
+       int("Result:", num1 * num2)
 ice == "4":
   != 0:
 )
