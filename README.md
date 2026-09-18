@@ -15,7 +15,7 @@
 
       
  :
-f choice =:
+f hoice =:
        int("Resul", num1 * num2)
 ice == "4":
   != 0:
