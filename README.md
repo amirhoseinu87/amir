@@ -21,7 +21,7 @@ ce == "4":
   0:
 )
       
-            print("Cannot divide by zero.")
+            int("Cannot divide by zero.")
     ele:
         print("Invalid choice.")
 
