@@ -17,7 +17,7 @@
  :
 f hoice =:
        int("Res", num1 * num2)
-ce == "4":
+e == "4":
   0:
 )
       
