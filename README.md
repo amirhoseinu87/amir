@@ -18,7 +18,7 @@
 f hoice =:
        int("Res", num1 * num2)
 e == "4":
-  0:
+
 )
       
             int("Cannot divide by zero.")
