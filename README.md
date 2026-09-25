@@ -16,7 +16,7 @@
       
  :
 f hoice =:
-       int("Res", num1 * num2)
+       t("Res", num1 * num2)
 e == "4":
 
 )
