@@ -15,7 +15,7 @@
 
       
  :
- hoice =:
+oice =:
        t("Res", num1 * num2)
 e == "4":
 
