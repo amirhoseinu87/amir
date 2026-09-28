@@ -16,7 +16,7 @@
       
  :
 oice =:
-       t("Res", num1 * num2)
+       "Res", num1 * num2)
 e == "4":
 
 )
