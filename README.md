@@ -27,5 +27,5 @@ oice =:
 
 
 List the advantages and disadvantages.
-Imagine living on Mars.
+magine living on Mars.
 
