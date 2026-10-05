@@ -23,7 +23,7 @@
       
             int("Cannot divide by zero.")
     ele:
-       int("Invalid choice.")
+      "Invalid choice.")
 
 
 List the advantages and disadvantages.
