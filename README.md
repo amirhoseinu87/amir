@@ -26,6 +26,6 @@
       "Invalid choice.")
 
 
-List the advantages and disadvantages.
+st the advantages and disadvantages.
 magine living on Mars.
 
