@@ -21,7 +21,7 @@
 
 )
       
-            t("Cannot divide by zero.")
+            "Cannot divide by zero.")
     ele:
      nvalid choice.")
 
