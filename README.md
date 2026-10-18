@@ -23,7 +23,7 @@
       
             "Cannot divide by zero.")
     ele:
-     nvalid choice.")
+    valid choice.")
 
 
 st the advantages and disadvantages.
