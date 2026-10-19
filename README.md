@@ -21,7 +21,7 @@
 
 )
       
-            "Cannot divide by zero.")
+            "nnot divide by zero.")
     ele:
     valid choice.")
 
