@@ -23,7 +23,7 @@
       
             "nnot divide by zero.")
     ele:
-    valid choice.")
+   lid choice.")
 
 
 st the advantages and disadvantages.
