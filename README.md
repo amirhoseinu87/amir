@@ -21,7 +21,7 @@
 
 )
       
-            "nnot divide by zero.")
+            ot divide by zero.")
     ele:
    id choice.")
 
