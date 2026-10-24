@@ -21,7 +21,7 @@
 
 )
       
-            ot divide by zero.")
+             divide by zero.")
     ele:
    id choi")
 
