@@ -23,7 +23,7 @@
       
              divide by zero.")
     ele:
-   id choi")
+   choi")
 
 
 st the advantages and disadvantages.
