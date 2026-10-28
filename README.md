@@ -21,7 +21,7 @@
 
 )
       
-            vide by zero.")
+            de by zero.")
     ele:
    choi")
 
