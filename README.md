@@ -27,5 +27,5 @@
 
 
 st the advantages andisadvantages.
-magine living on Mars.
+agine living on Mars.
 
