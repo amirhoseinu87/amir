@@ -26,6 +26,6 @@
    choi")
 
 
-st the advantages andisadvantages.
+st the advantages ndisadvantages.
 agineving on Mars.
 
