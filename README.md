@@ -26,6 +26,6 @@
    choi")
 
 
-st the advantages ndisadvantages.
+st the advantages ndisadvantas.
 agineving on Mars.
 
